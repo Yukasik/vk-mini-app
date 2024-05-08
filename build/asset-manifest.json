@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/static/css/main.0a4b9013.css",
+    "main.js": "/static/js/main.8a9359f9.js",
+    "static/media/7.jpg": "/static/media/7.5d0889626ad56e453e2c.jpg",
+    "static/media/8.jpg": "/static/media/8.d412f4f826ec9a9ed915.jpg",
+    "static/media/6.jpg": "/static/media/6.ec8728bd63311942b2b4.jpg",
+    "static/media/kitty.png": "/static/media/kitty.a288c9aa54fa6361d420.png",
+    "static/media/2.jpg": "/static/media/2.5b254dd3cca0c1fbc490.jpg",
+    "static/media/1.jpg": "/static/media/1.e4fcc853d02cf95d06d4.jpg",
+    "static/media/10.jpg": "/static/media/10.311d5b5a3a0ae34c64ba.jpg",
+    "static/media/3.jpg": "/static/media/3.36d6af1c11baa5b2de81.jpg",
+    "static/media/9.jpg": "/static/media/9.d4152762572cdad06e5a.jpg",
+    "static/media/KittyHome.mp4": "/static/media/KittyHome.6d097fef13c151b2d371.mp4",
+    "static/media/4.jpg": "/static/media/4.a257ddaa03584fae4b85.jpg",
+    "static/media/5.jpg": "/static/media/5.d2b28ae037d202aa3acf.jpg",
+    "static/media/1.svg": "/static/media/1.68889bff5b954dfe8d4cf994c281981e.svg",
+    "index.html": "/index.html",
+    "main.0a4b9013.css.map": "/static/css/main.0a4b9013.css.map",
+    "main.8a9359f9.js.map": "/static/js/main.8a9359f9.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0a4b9013.css",
+    "static/js/main.8a9359f9.js"
+  ]
+}
