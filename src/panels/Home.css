@@ -1,0 +1,143 @@
+.home {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    color: #A393F5;
+    background-color: #E6E9FF;
+    min-height: 100vh;
+    width: 100%;
+    overflow-x: hidden;
+    padding: 0 20px;
+    box-sizing: border-box;
+}
+
+.title {
+    margin-top: 50px;
+    width: 80%;
+    max-width: 120px;
+}
+
+.kittyHome, .img-kitty {
+    width: 90%;
+    width: 270px;
+    height: 270px;
+    border-radius: 20px;
+    box-shadow: 2px 2px 5px #2e2e2e6c;
+    object-fit: cover;
+    margin-top: 0px;
+}
+
+.kittyHome {
+    margin-top: 10px;
+}
+
+
+.kitty {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-top: 0px;
+    margin-bottom: 0px;
+    padding: 0;
+}
+
+.desc-kitty {
+    text-align: center;
+    margin-top: 10px;
+    margin-bottom: 0px;
+    font-size: 20px;
+    font-weight: 500;
+    width: 270px;
+    line-height: 20px;
+}
+
+.question {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-top: 0px;
+    line-height: 0px;
+}
+
+.question-text-title {
+    width: 100%;
+    text-align: center;
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 20px;
+    margin-top: 5px;
+    margin-bottom: 0;
+}
+
+.question-text-desc {
+    text-align: center;
+    width: 280px;
+    line-height: 15px;
+    margin-top: 5px;
+    margin-bottom: 0px;
+    font-weight: 300;
+    font-weight: 400;
+    font-size: 12px;
+}
+
+.question-buttons {
+    display: flex;
+    justify-content: center;
+    gap: 15px;
+    margin-top: 0;
+}
+
+.question-buttons Button, .back {
+    margin-top: 0;
+    width: 80px;
+    height: 30px;
+    border-radius: 10px;
+    background-color: rgba(255, 255, 255, 0);
+    border: 2px solid #A393F5;
+    color: #A393F5;
+    font-weight: 500;
+    font-size: 12px;
+    cursor: pointer;
+}
+
+.popout {
+    display: flex;
+    justify-content: center;
+}
+
+.trick-img {
+    margin-top: 0;
+    width: 90px;
+    height: 60px;
+    object-fit: cover;
+    object-position: bottom;
+    cursor: pointer;
+    padding: 0;
+    margin: 0;
+}
+
+.modal {
+    width: 250px;
+    color: white;
+    border-radius: 20px;
+    position: relative;
+    padding: 12px;
+    text-align: center;
+    text-shadow: 2px 1px 4px black;
+    line-height: 20px;
+}
+
+.modal img {
+    width: 120px;
+}
+
+.back {
+    margin-top: 10px;
+}
+
+
+@media (max-width: 320px) {
+    .title {
+        margin-top: 10px;
+    }
+}
